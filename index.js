@@ -1,7 +1,7 @@
 let paper = document.getElementById("paper-img");
 let rock = document.getElementById("rock-img");
 let scissors = document.getElementById("scissors-img");
-let showWin = document.getElementById("inner-show");
+let showWin = document.getElementById("winner-show");
 
 let userScore = document.getElementById("userScore");
 let comScore = document.getElementById("comScore");
